@@ -9,6 +9,7 @@ int main(){
 	cin >> a >> b;
 
 	cout << "La resta de los dos numeros es: " << a - b << endl;
+	cout << "La suma de los dos numeros es: " << a + b << endl;
 
 	return 0;
 }
